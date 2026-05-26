@@ -1,0 +1,10 @@
+Findings Identified:
+
+1. Missing Content Security Policy Header
+Risk Level: Medium
+
+2. Missing X-Frame-Options Header
+Risk Level: Low
+
+3. Server Information Disclosure
+Risk Level: Low

@@ -1,0 +1,25 @@
+Microsoft Windows [Version 10.0.26200.8457]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\siyab>nmap demo.owasp-juice.shop
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-05-26 00:19 +0200
+Nmap scan report for demo.owasp-juice.shop (81.169.145.156)
+Host is up (0.19s latency).
+Other addresses for demo.owasp-juice.shop (not scanned): 2a01:238:20a:202:1156::
+rDNS record for 81.169.145.156: w9c.rzone.de
+Not shown: 990 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+113/tcp  closed ident
+443/tcp  open   https
+1503/tcp closed imtc-mcs
+1720/tcp closed h323q931
+1935/tcp closed rtmp
+5060/tcp open   sip
+5222/tcp closed xmpp-client
+8010/tcp open   xmpp
+8042/tcp closed fs-agent
+
+Nmap done: 1 IP address (1 host up) scanned in 35.26 seconds
+
+C:\Users\siyab>

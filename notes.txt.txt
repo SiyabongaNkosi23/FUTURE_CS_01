@@ -1,0 +1,5 @@
+Target Website:
+OWASP Juice Shop
+
+Purpose:
+Educational vulnerability assessment for internship task.
