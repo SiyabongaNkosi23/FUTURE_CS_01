@@ -1,4 +1,18 @@
 # FUTURE_CS_01 — Vulnerability Assessment Report
+---
+
+## 📍 Quick Navigation
+
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Tools Used](#tools-used)
+- [Project Structure](#project-structure)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Author](#author)
+- [License](#license)
+
+---
 
 ## Overview
 This project presents a vulnerability assessment conducted on the OWASP Juice Shop web application as part of the Future Interns Cyber Security Internship.
